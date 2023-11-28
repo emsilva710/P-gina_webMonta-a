@@ -5,7 +5,9 @@ h2, li{
     border-bottom: 1px solid #D6D6D6;
     font-size: 1.8em;
     color: #696969;
-    background: url(img/img08.jpg) no-repeat left 4px;
+    background: url(../img/viñeta.jpg);
+    background-position: left 4px;
+    background-repeat: no-repeat;
 }
 
 ul{
